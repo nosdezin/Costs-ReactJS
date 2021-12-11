@@ -1,0 +1,24 @@
+.footer{
+    background-color: #222;
+    color: #FFF;
+    padding: 3em;
+    text-align: center;
+}
+
+.image{
+    font-size: 1.5em;
+    cursor: pointer;
+}
+
+.image:hover{
+    color: #ffbb33;
+}
+
+.copy_right{
+    margin-top: 2em;
+}
+
+.copy_right span{
+    font-weight: bold;
+    color: #ffbb33;
+}
